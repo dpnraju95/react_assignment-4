@@ -1,0 +1,28 @@
+{
+    "user":
+        [
+        {
+            "name":"Siva",
+            "location":"Agra",
+            "likes":614,
+            "description": "Taj Mahal",
+            "PostImage": "./photo/image1.jpg",
+            "date": "26 Dec 2021"
+            },
+            {
+            "name":"Neeraj",
+            "location":"Mumbai",
+            "likes":130,
+            "description": "Mumbai place to Explore",
+            "PostImage":  "./photo/image2.jpg",
+            "date":"29 Dec 2021"
+            },
+            {"name":"Rahul",
+            "location":"Maharashtra ",
+            "likes":30,
+            "description": "Explore Indian",
+           " PostImage": "./photo/image3.jpg",
+            "date": "20 Feb 2021"
+            }
+            ]
+}
